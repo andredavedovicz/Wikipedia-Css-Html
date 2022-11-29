@@ -1,8 +1,8 @@
-#Wikipedia Page with HTML and CSS
+# Wikipedia Page with HTML and CSS
 
 A simple page about Cheetah like a Wikipedia,using the styles to set images in background,in the container,using a scroll in the text and other resources.
 
-##Technologies
+## Technologies
 
 - HTML
 - CSS
